@@ -4,6 +4,7 @@ import "./globals.css";
 
 import { cn } from '@/lib/utils'
 import { ThemeProvider } from "@/components/ui/theme-provider";
+import Image from "next/image";
 
 const fontSans = Plus_Jakarta_Sans({ 
   subsets: ["latin"],
@@ -26,9 +27,10 @@ export default function RootLayout({
       <body
         className={cn('min-h-screen bg-blue-300 font-sans antialiased', fontSans.variable)}
       >
+        
           <ThemeProvider
               attribute="class"
-              defaultTheme="dark"
+              defaultTheme="light"
           >
             {children}
           </ThemeProvider>
