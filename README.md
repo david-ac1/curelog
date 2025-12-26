@@ -319,10 +319,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **David Chukwuebuka Achibiri**
 
-- GitHub: [@ebukae](https://github.com/ebukae)
+- GitHub: [@ebukae](https://github.com/david-ac1)
 - Company: EBUKAE Tech Projects
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
+- Email: davidachibiri8@gmail.com
+- LinkedIn: davidachibiri1
 
 ---
 
