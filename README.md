@@ -339,7 +339,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 If you encounter any issues or have questions:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: [davidachibiri8@gmail.com]
 
 ---
 
