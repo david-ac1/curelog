@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   <h1>🏥 CURELOG</h1>
   <p><strong>Modern Healthcare Management System</strong></p>
